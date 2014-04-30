@@ -1,0 +1,27 @@
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\bin\Debug\BusnisLogicLayer.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\bin\Debug\BusnisLogicLayer.pdb
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\bin\Debug\EntityModel.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\bin\Debug\EntityModel.pdb
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\obj\Debug\BusnisLogicLayer.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\BusnisLogicLayer\obj\Debug\BusnisLogicLayer.pdb
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\bin\Debug\BusnisLogicLayer.dll
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\bin\Debug\BusnisLogicLayer.pdb
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\bin\Debug\EntityModel.dll
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\bin\Debug\EntityModel.pdb
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\obj\Debug\BusnisLogicLayer.dll
+C:\Users\Daniel\Desktop\MessageExpress\BusnisLogicLayer\obj\Debug\BusnisLogicLayer.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\bin\Debug\BusnisLogicLayer.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\bin\Debug\BusnisLogicLayer.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\bin\Debug\EntityModel.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\bin\Debug\EntityModel.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\obj\Debug\BusnisLogicLayer.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\BusnisLogicLayer\obj\Debug\BusnisLogicLayer.pdb

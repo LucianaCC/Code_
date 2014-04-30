@@ -1,0 +1,24 @@
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\bin\Debug\EntityModel.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\bin\Debug\EntityModel.pdb
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\WBTask\MessageExpress\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\bin\Debug\EntityModel.dll
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\bin\Debug\EntityModel.pdb
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\MessageExpress\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\bin\Debug\EntityModel.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\bin\Debug\EntityModel.pdb
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\Daniel\Desktop\Aplicando servicio desde el cliente\MessageExpress\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
